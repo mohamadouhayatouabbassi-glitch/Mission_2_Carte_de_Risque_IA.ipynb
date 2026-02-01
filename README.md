@@ -2,7 +2,7 @@
 
 ## 📋 Contexte du Projet
 
-Ce projet a été réalisé dans le cadre d'une **première mission de stage en analyse de données avec Python**. Il s'agit d'une solution complète d'analyse de risque financier d'entreprises, combinant des approches traditionnelles de scoring métier avec des techniques avancées de Machine Learning et de détection d'anomalies.
+Ce projet a été réalisé dans le cadre d'une **deuxième mission de stage en analyse de données avec Python**. Il s'agit d'une solution complète d'analyse de risque financier d'entreprises, combinant des approches traditionnelles de scoring métier avec des techniques avancées de Machine Learning et de détection d'anomalies.
 
 ### 🎯 Objectif Principal
 
