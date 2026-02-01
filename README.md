@@ -142,7 +142,7 @@ Application de **3 algorithmes complémentaires** :
 ## 📂 Structure du Projet
 
 ```
-Mission_2_Carte_de_Risque_IA.ipynb/
+Mission_2_Carte_de_Risque_IA/
 │
 ├── Mission_2_Carte_de_Risque_IA_Niveau_Avancé_Mohamadou_Hayatou.ipynb
 │   └── Notebook principal contenant toute l'analyse (4 étapes)
